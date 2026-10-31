@@ -15,6 +15,7 @@
                      "macro",
                      "events"
                  ],
+        "IconUrl": "https://raw.githubusercontent.com/reyalexffxiv/ReyPlugins/main/cutepeeposit.png",
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/reyalexffxiv/VenueHost/master/dist/VenueHost-latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/reyalexffxiv/VenueHost/master/dist/VenueHost-latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/reyalexffxiv/VenueHost/master/dist/VenueHost-latest.zip"
@@ -36,6 +37,7 @@
                      "random",
                      "jackpot"
                  ],
+        "IconUrl": "https://raw.githubusercontent.com/reyalexffxiv/ReyPlugins/main/cutepeeposit.png",
         "DownloadLinkInstall":  "https://github.com/reyalexffxiv/Bargame/releases/download/1.0b/BarGame-v1.0.0-beta.zip",
         "DownloadLinkUpdate":  "https://github.com/reyalexffxiv/Bargame/releases/download/1.0b/BarGame-v1.0.0-beta.zip",
         "DownloadLinkTesting":  "https://github.com/reyalexffxiv/Bargame/releases/download/1.0b/BarGame-v1.0.0-beta.zip"
