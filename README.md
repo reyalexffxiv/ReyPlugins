@@ -16,3 +16,4 @@ Save/refresh, then install any available plugin through the Dalamud plugin insta
 
 - **Venue Host** — Tools for hosting FFXIV venue events.
 - **Bar Game** — `/random` jackpot game management.
+- **Raffle Game** — Raffle ticket sales and winner draws.

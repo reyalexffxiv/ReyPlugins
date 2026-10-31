@@ -41,5 +41,26 @@
         "DownloadLinkInstall": "https://github.com/reyalexffxiv/Bargame/releases/download/1.0.1b/BarGame-v1.0.1-beta.zip",
         "DownloadLinkUpdate": "https://github.com/reyalexffxiv/Bargame/releases/download/1.0.1b/BarGame-v1.0.1-beta.zip",
         "DownloadLinkTesting": "https://github.com/reyalexffxiv/Bargame/releases/download/1.0.1b/BarGame-v1.0.1-beta.zip"
+    },
+    {
+        "Author":  "ReyAlex",
+        "Name":  "Raffle Game",
+        "InternalName":  "RaffleGame",
+        "AssemblyVersion":  "1.0.0.0",
+        "Punchline":  "Raffle ticket sales and winner draws for FFXIV events.",
+        "Description":  "Tracks raffle ticket purchases, assigns ticket ranges, calculates sales and prize pot, and finds the winner from a drawn ticket number.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "raffle",
+                     "tickets",
+                     "venue",
+                     "events"
+                 ],
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://raw.githubusercontent.com/reyalexffxiv/RaffleGame/master/images/icon.png",
+        "RepoUrl":  "https://github.com/reyalexffxiv/RaffleGame",
+        "DownloadLinkInstall":  "https://github.com/reyalexffxiv/RaffleGame/releases/download/1.0b/RaffleGame-v1.0.0-beta.zip",
+        "DownloadLinkUpdate":  "https://github.com/reyalexffxiv/RaffleGame/releases/download/1.0b/RaffleGame-v1.0.0-beta.zip",
+        "DownloadLinkTesting":  "https://github.com/reyalexffxiv/RaffleGame/releases/download/1.0b/RaffleGame-v1.0.0-beta.zip"
     }
 ]
